@@ -36,5 +36,8 @@ Sales-Analysis-AAL-Q4-2020/
 ### Time-of-Day Sales Analysis
 ![Time of Day](images/time_of_day_sales.png)
 
+## 📄 Report
+A detailed PDF report is available in the `reports/` folder.
+
 ## 👤 Author
 **Mohammed Mufaqqam Sanjar Ghori**  
