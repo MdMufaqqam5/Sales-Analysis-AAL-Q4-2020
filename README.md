@@ -38,4 +38,3 @@ Sales-Analysis-AAL-Q4-2020/
 
 ## 👤 Author
 **Mohammed Mufaqqam Sanjar Ghori**  
-MSc Data Science, AI & Digital Business
